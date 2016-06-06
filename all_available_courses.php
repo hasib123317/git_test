@@ -1,5 +1,5 @@
 
-<h1><?php echo 'All Courses in Dept. of CSE, BUET'?></h1>
+<h1><?php echo 'All Available Courses in Dept. of CSE, BUET'?></h1>
 		<legend></legend>
 <?php if ($all_available_courses):?>
 	<?php foreach($all_available_courses as $r) : ?> 
